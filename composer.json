@@ -1,17 +1,22 @@
 {
-    "name": "fezfez/service-locator-factory",
+    "name": "PhilETaylor/service-locator-factory",
     "type": "library",
-    "description": "Get the service locator in zf2",
+    "description": "Get the service locator in anywhere in zf2 statically (bad practice but needed sometimes :-) )",
     "keywords": ["serviceLocator","factory", "ZF2"],
-    "homepage": "https://github.com/fezfez/ServiceLocatorFactory",
+    "homepage": "https://github.com/PhilETaylor/ZF2ServiceLocatorFactory",
     "license": "MIT",
-    "version": "0.1beta",
+    "version": "0.2beta",
     "authors": [
         {
             "name": "Demonchaux Stéphane",
             "email": "demonchaux.stephane@gmail.com",
-            "role": "Developer"
-        }
+            "role": "Original Developer"
+        },
+         {
+            "name": "Phil Taylor",
+            "email": "phil@phil-taylor.com",
+            "role": "Current Developer / Maintainer"
+        },
     ],
     "require": {
         "php": ">=5.3.0",
