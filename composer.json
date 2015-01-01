@@ -16,7 +16,7 @@
             "name": "Phil Taylor",
             "email": "phil@phil-taylor.com",
             "role": "Current Developer / Maintainer"
-        },
+        }
     ],
     "require": {
         "php": ">=5.3.0",
