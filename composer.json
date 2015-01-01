@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Get the service locator in anywhere in zf2 statically (bad practice but needed sometimes :-) )",
     "keywords": ["serviceLocator","factory", "ZF2"],
-    "homepage": "https://github.com/PhilETaylor/ZF2ServiceLocatorFactory",
+    "homepage": "https://github.com/PhilETaylor/ServiceLocatorFactory",
     "license": "MIT",
     "version": "0.2beta",
     "authors": [
