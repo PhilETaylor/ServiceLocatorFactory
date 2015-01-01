@@ -1,5 +1,5 @@
 {
-    "name": "PhilETaylor/service-locator-factory",
+    "name": "philetaylor/service-locator-factory",
     "type": "library",
     "description": "Get the service locator in anywhere in zf2 statically (bad practice but needed sometimes :-) )",
     "keywords": ["serviceLocator","factory", "ZF2"],
