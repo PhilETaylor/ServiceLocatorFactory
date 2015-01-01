@@ -1,6 +1,6 @@
 # ServiceLocatorFactory
 
-This is a long term fork of the fezfez/ServiceLocatorFactory as that is no longer maintained.
+This is a long term fork of the fezfez/ServiceLocatorFactory as that is no longer maintained...
 
 Allow you to get ServiceManager from everywhere in your application by calling this static factory.
 
