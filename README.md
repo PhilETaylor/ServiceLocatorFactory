@@ -1,6 +1,6 @@
 # ServiceLocatorFactory
 
-[![Project Status](http://stillmaintained.com/fezfez/ServiceLocatorFactory.png)](http://stillmaintained.com/fezfez/ServiceLocatorFactory)
+This is a long term fork of the fezfez/ServiceLocatorFactory as that is no longer maintained.
 
 Allow you to get ServiceManager from everywhere in your application by calling this static factory.
 
